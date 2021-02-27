@@ -10,6 +10,6 @@
 
 ## Website of the course
 
-|  Available | Last Update |
+|  Course Site | Last Update |
 | ------------- | ------------- | 
 | [https://sites.google.com/uniroma1.it/neuroengineering](https://sites.google.com/uniroma1.it/neuroengineering) | 2021 |
