@@ -3,8 +3,8 @@
 |   | Available | Last Update |
 | ------------- | ------------- | ------------ |
 | Exams | Yes | 2021 |
-| Homework  | No |  |
-| Notes  | No |  |
+| Homework  | No | - |
+| Notes  | No | - |
 | Slides | Yes | 2020 |
 | Astolfi | Yes | 2021 |
 | Cincotti | Yes | 2021 |
