@@ -6,7 +6,8 @@
 | Homework  | No |  |
 | Notes  | No |  |
 | Slides | Yes | 2020 |
-| Questions of Astolfi | Yes | 2020 |
+| Astolfi | Yes | 2021 |
+| Cincotti | Yes | 2021 |
 
 ## Website of the course
 
