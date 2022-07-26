@@ -4,7 +4,7 @@
 | ------------- | ------------- | ------------ |
 | Exams | Yes | 2021 |
 | Homework  | No | - |
-| Notes  | No | - |
+| Notes  | Yes | Jul 2022 |
 | Slides | Yes | 2020 |
 | Astolfi | Yes | 2021 |
 | Cincotti | Yes | 2021 |
